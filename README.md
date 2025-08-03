@@ -47,8 +47,9 @@ Achieved a **99/100** score on lighthouse 🚀
 ## 🧑‍💻 Author
 
 **Rabikant**  
-🔗 [GitHub](https://github.com/rabikant7)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rabi-kant-50b468360)  
 
+🔗 [GitHub](https://github.com/rabikant7)
 ---
 
 ## 📄 License
